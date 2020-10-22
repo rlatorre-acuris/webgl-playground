@@ -1,1 +1,1 @@
-import './chapter2';
+import './chapter3/ScaledTriangle';
